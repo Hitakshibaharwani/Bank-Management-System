@@ -1,4 +1,4 @@
-Functional Requirements of Bank Management System using OOPS in C++
+#Functional Requirements of Bank Management System using OOPS in C++
  1. Create New Account
  2. Show All Account
  3. Search Account
